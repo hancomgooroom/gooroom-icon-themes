@@ -1,0 +1,15 @@
+Source: gooroom-icon-themes
+Section: gnome
+Priority: optional
+Maintainer: gooroom <gooroom@gooroom.kr>
+Build-Depends: debhelper (>=9)
+Standards-version: 1.0
+
+Package: gooroom-icon-themes
+Depends: ${misc:Depends},
+         hicolor-icon-theme,
+         libgtk-3-bin,
+         librsvg2-common
+Architecture: all
+Description: Default Icon Theme of Gooroom 
+ This package contains the default icon theme used by the Gooroom.
