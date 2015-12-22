@@ -3,7 +3,7 @@ Section: gnome
 Priority: optional
 Maintainer: gooroom <gooroom@gooroom.kr>
 Build-Depends: debhelper (>=9)
-Standards-version: 1.0
+Standards-version: 3.7.2
 
 Package: gooroom-icon-themes
 Depends: ${misc:Depends},
