@@ -1,8 +1,6 @@
 [Icon Theme]
 Name=Gooroom-Flat-01
-Name[ko]=구름 아이콘 1
 Comment=Gooroom Icon Theme Flat 01
-Comment[ko]=구름 아이콘 테마 첫번째
 Inherits=gnome,crystalsvg
 Example=x-directory-normal
 
