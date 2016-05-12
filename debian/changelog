@@ -1,3 +1,27 @@
+gooroom-icon-themes (1.1+grm1) gooroom-1.0; urgency=medium
+
+  [ gooroom ]
+  * modify Standards-version to 3.7.2
+  * add gitignore
+  * update icon theme pack
+  * add ko string in index.theme
+  * add datetime-panel.png display-panel.png font-panel.png keyboard-panel.png power-panel.png region-panel.png theme-panel.png user-panel.png
+  * update 20160127
+  * update 2016.02.17
+  * add Gooroom-Flat-02 icons
+  * add browser icons at Gooroom-Flat-01
+  * update browser icons
+  * 테마별 브라우저 아이콘을 xfce-whiskermenu.png으로 모두 변경
+  * web-browser.png 16x16 이미지를 xfce4-whiskermenu.png  교체
+  * 브라우저의 정보 창에 나오는 logo_browser.png 이미지 추가
+
+  [ cjheo ]
+  * Renamed icon file
+
+  [ Gooroom Autobuilder ]
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Fri, 13 May 2016 03:43:39 +0900
+
 gooroom-icon-themes (1.0) gooroom-1.0; urgency=medium
 
   * Initial release.
