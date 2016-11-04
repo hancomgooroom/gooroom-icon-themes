@@ -1,0 +1,7 @@
+#!/bin/sh
+
+set -e
+
+gtk-update-icon-cache-3.0 -f /usr/share/icons/Gooroom-Flat-01 \
+                             /usr/share/icons/Gooroom-Flat-03 \
+                             /usr/share/icons/Gooroom-Flat-02
