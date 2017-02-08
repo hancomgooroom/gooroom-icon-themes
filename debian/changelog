@@ -1,3 +1,24 @@
+gooroom-icon-themes (1.2+grm1) gooroom-1.0; urgency=medium
+
+  [ cjheo ]
+  * [b9585fa5] Add new icon theme for gooroom
+  * [c370c4c8] Add new icons
+  * [30c80426] Update icon theme cache file
+  * [ac008c7e] Add new icons for panel
+  * [702f7dd7] Add post install file for updating icon cache
+  * [65202616] Add and modify display-brightness icon
+  * [517064e4] Modify uim tray icon
+  * [921f932f] Delete qsi icons
+  * [438233f7] Change icon of gooroom rule system application
+
+  [ jongkyung.woo ]
+  * [a6ab4951] add 5 version at debian/compat
+  * [1ce832d1] update navigator and folder icons in Gooroom-Flat-03
+
+  [ Gooroom Autobuilder ]
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Wed, 08 Feb 2017 16:21:58 +0900
+
 gooroom-icon-themes (1.1+grm1) gooroom-1.0; urgency=medium
 
   [ gooroom ]
