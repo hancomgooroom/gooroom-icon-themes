@@ -1,3 +1,12 @@
+gooroom-icon-themes (1.2.1+grm1u1) gooroom-1.0; urgency=medium
+
+  [ jongkyung.woo ]
+  * [a3ce9036] Changed the postinst to update-icon-caches for stretch version
+
+  [ Gooroom Autobuilder ]
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Mon, 13 Nov 2017 20:50:31 +0900
+
 gooroom-icon-themes (1.2+grm1) gooroom-1.0; urgency=medium
 
   [ cjheo ]
