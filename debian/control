@@ -8,6 +8,7 @@ Standards-version: 3.7.2
 Package: gooroom-icon-themes
 Depends: ${misc:Depends},
          hicolor-icon-theme,
+         arc-icon-theme,
          libgtk-3-bin,
          librsvg2-common
 Architecture: all

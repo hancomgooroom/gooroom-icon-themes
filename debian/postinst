@@ -2,8 +2,4 @@
 
 set -e
 
-update-icon-caches /usr/share/icons/Gooroom-Flat-01 \
-                   /usr/share/icons/Gooroom-Flat-02 \
-                   /usr/share/icons/Gooroom-Flat-03 \
-                   /usr/share/icons/Gooroom-Flat-04 \
-                   /usr/share/icons/Gooroom-Flat-05
+gtk-update-icon-cache /usr/share/icons/Gooroom-Blue
