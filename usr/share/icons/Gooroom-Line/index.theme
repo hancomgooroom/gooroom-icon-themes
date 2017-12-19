@@ -1,0 +1,12 @@
+[Icon Theme]
+Name=Gooroom-Line
+Comment=Gooroom Line Icon Theme
+Inherits=Arc
+
+# Directory list
+Directories=scalable/apps
+
+[scalable/apps]
+Size=256
+Context=Applications
+Type=Scalable

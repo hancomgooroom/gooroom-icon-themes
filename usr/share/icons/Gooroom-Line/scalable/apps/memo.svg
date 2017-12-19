@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="레이어_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="256px" height="256px" viewBox="0 0 256 256" enable-background="new 0 0 256 256" xml:space="preserve">
+<path fill="#EB9335" d="M256,236c0,11.047-8.953,20-20,20H20c-11.046,0-20-8.953-20-20V20C0,8.955,8.954,0,20,0h216
+	c11.047,0,20,8.955,20,20V236z"/>
+<g>
+	<polyline fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linejoin="round" stroke-miterlimit="10" points="113.209,84.826 
+		51.632,146.402 52.333,178.589 83.121,177.89 158.879,102.131 	"/>
+	
+		<rect x="130.146" y="62.16" transform="matrix(0.7071 0.7071 -0.7071 0.7071 99.2732 -85.1374)" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linejoin="round" stroke-miterlimit="10" width="44.52" height="30.21"/>
+	
+		<line fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linejoin="round" stroke-miterlimit="10" x1="49" y1="205.157" x2="207" y2="205.157"/>
+	
+		<line fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linejoin="round" stroke-miterlimit="10" x1="137.48" y1="174.61" x2="207" y2="174.61"/>
+</g>
+</svg>

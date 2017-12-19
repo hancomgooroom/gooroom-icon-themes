@@ -3,3 +3,4 @@
 set -e
 
 gtk-update-icon-cache /usr/share/icons/Gooroom-Blue
+gtk-update-icon-cache /usr/share/icons/Gooroom-Line
