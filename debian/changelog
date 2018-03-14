@@ -1,3 +1,22 @@
+gooroom-icon-themes (1.2.2+grm1u1) gooroom-1.0; urgency=medium
+
+  [ Heo, ChangJu ]
+  * [bc8b03d1] Adding 'Gooroom-Blue' icon theme
+  * [dc62cd16] Changed icon name
+  * [46884953] Adding the 'Gooroom-Line' icon theme
+
+  [ cjheo ]
+  * [8a9d1a6f] Adding icons for xfce4 panel plugins
+  * [55856df0] Updating icons for Gooroom-Blue and Gooroom-Line theme
+  * [23921ef6] Adding the 48x48 icons for battery notification
+
+  [ jongkyung.woo ]
+  * [b9e4c501] Added org.gnome.Nautilus.svg
+
+  [ Gooroom Autobuilder ]
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Wed, 14 Mar 2018 19:20:09 +0900
+
 gooroom-icon-themes (1.2.1+grm1u1) gooroom-1.0; urgency=medium
 
   [ jongkyung.woo ]
