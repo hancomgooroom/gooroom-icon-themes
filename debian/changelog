@@ -1,3 +1,12 @@
+gooroom-icon-themes (1.2.3+grm1u1) gooroom-1.0; urgency=medium
+
+  [ cjheo ]
+  * [27445653] Adding icons for file-roller and gooroom-management-settings
+
+  [ Gooroom Autobuilder ]
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Wed, 28 Mar 2018 12:50:57 +0900
+
 gooroom-icon-themes (1.2.2+grm1u1) gooroom-1.0; urgency=medium
 
   [ Heo, ChangJu ]
