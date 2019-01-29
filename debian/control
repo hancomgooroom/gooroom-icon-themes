@@ -9,6 +9,8 @@ Package: gooroom-icon-themes
 Depends: ${misc:Depends},
          hicolor-icon-theme,
          arc-icon-theme,
+         faenza-icon-theme,
+         papirus-icon-theme,
          libgtk-3-bin,
          librsvg2-common
 Architecture: all

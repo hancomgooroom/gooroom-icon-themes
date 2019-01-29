@@ -1,0 +1,12 @@
+[Icon Theme]
+Name=Gooroom-Papirus
+Comment=Gooroom Papirus Icon Theme
+Inherits=Papirus
+
+# Directory list
+Directories=scalable/apps
+
+[scalable/apps]
+Size=256
+Context=Applications
+Type=Scalable
