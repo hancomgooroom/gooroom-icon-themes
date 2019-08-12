@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+    <defs>
+        <linearGradient id="b" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#CDCDCD"/>
+            <stop offset="100%" stop-color="#FFF"/>
+        </linearGradient>
+        <path id="a" d="M8 0h32a8 8 0 0 1 8 8v32a8 8 0 0 1-8 8H8a8 8 0 0 1-8-8V8a8 8 0 0 1 8-8z"/>
+        <path id="d" d="M8 34h32a6 6 0 1 1 0 12H8a6 6 0 1 1 0-12z"/>
+        <filter id="e" width="109.1%" height="133.3%" x="-4.5%" y="-16.7%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation="1.5"/>
+            <feOffset dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"/>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+            <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <rect width="48" height="48" fill="#FFF" rx="8"/>
+        <mask id="c" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <use fill="url(#b)" xlink:href="#a"/>
+        <g mask="url(#c)">
+            <path fill="#55B6FF" d="M25.616 24L62.061 2.96l1 1.731-38.105 22-.5-.866a4 4 0 0 0-6.928 4l.5.866-15.589 9-1-1.732 13.928-8.041A6.002 6.002 0 0 1 25.616 24z"/>
+            <path fill="#299FFF" d="M38.41 11.995l.5.866-13.917 8.035a8.037 8.037 0 0 0-2.419-.913l13.647-7.879c-2.092-4.627-.373-10.176 4.117-12.77 4.491-2.592 10.157-1.306 13.118 2.82l6.105-3.525 1 1.732-7.794 4.5-.5-.866a8 8 0 0 0-13.857 8zM13.41 25.275a8.037 8.037 0 0 0-.419 2.551L-.06 35.361l-1-1.732 14.469-8.354z"/>
+            <path fill="#2E70BE" d="M15.992 19.165l.5.866-19.053 11-1-1.732 17.344-10.014C9.495 10.82 12.53.38 20.848-4.423c6.496-3.75 14.358-2.992 19.961 1.304a12.108 12.108 0 0 0-1.984 1.035c-4.914-3.324-11.493-3.773-16.977-.607-7.653 4.418-10.275 14.203-5.856 21.856zM51.34-2.398l5.72-3.303 1 1.732-4.92 2.841a11.941 11.941 0 0 0-1.8-1.27z"/>
+        </g>
+        <path fill="#FFF" fill-opacity=".7" d="M8 31.594h32a8 8 0 0 1 8 8V40a8 8 0 0 1-8 8H8a8 8 0 0 1-8-8v-.406a8 8 0 0 1 8-8z"/>
+        <g fill="#000">
+            <use fill-opacity=".7" xlink:href="#d"/>
+            <use filter="url(#e)" xlink:href="#d"/>
+        </g>
+        <circle cx="40" cy="40" r="2" fill="#7ED321"/>
+    </g>
+</svg>

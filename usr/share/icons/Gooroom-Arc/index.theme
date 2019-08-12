@@ -1,0 +1,29 @@
+[Icon Theme]
+Name=Gooroom Icon Theme 1
+Comment=Gooroom icon theme based on Arc
+Inherits=Arc
+
+# Directory list
+Directories=apps/96x96,apps/scalable,categories/96x96,categories/scalable
+
+[apps/96x96]
+Context=Applications
+Size=96
+Type=Fixed
+
+[apps/scalable]
+Size=256
+Context=Applications
+Type=Scalable
+
+[categories/96x96]
+Context=Categories
+Size=96
+Type=Fixed
+
+[categories/scalable]
+Context=Categories
+Size=256
+MinSize=16
+MaxSize=512
+Type=Scalable

@@ -6,17 +6,11 @@ Files: *
 Copyright: 2010 Matthieu James <matthieu.james@gmail.com>
 License: GPL-3+
 
-Files: usr/share/icons/Gooroom-Blue/scalable/apps/*.svg
-       usr/share/icons/Gooroom-Line/scalable/apps/*.svg
+Files: usr/share/icons/Gooroom-Arc/*.svg
+       usr/share/icons/Gooroom-Faenza/*.svg
+       usr/share/icons/Gooroom-Papirus/*.svg
 Copyright: 2015 - 2016 gooroom <gooroom@gooroom.kr>
 License: Apache-2
-
-Files: usr/share/icons/Gooroom-Blue/scalable/apps/nm-device-wired.svg
-       usr/share/icons/Gooroom-Blue/scalable/apps/nm-no-connection.svg
-       usr/share/icons/Gooroom-Line/scalable/apps/nm-device-wired.svg
-       usr/share/icons/Gooroom-Line/scalable/apps/nm-no-connection.svg
-Copyright: 2010 Matthieu James <matthieu.james@gmail.com>
-License: GPL-3+
 
 
 License: GPL-3+

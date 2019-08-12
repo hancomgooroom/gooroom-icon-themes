@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+    <defs>
+        <linearGradient id="a" x1="17.164%" x2="65.948%" y1="29.032%" y2="64.525%">
+            <stop offset="0%" stop-color="#6B98E3"/>
+            <stop offset="100%" stop-color="#4FABE8"/>
+        </linearGradient>
+        <linearGradient id="b" x1="17.164%" x2="65.948%" y1="31.571%" y2="62.766%">
+            <stop offset="0%" stop-color="#6B98E3"/>
+            <stop offset="100%" stop-color="#4FABE8"/>
+        </linearGradient>
+        <linearGradient id="d" x1="50%" x2="50%" y1="87.476%" y2="100%">
+            <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+            <stop offset="100%" stop-opacity=".5"/>
+        </linearGradient>
+        <path id="c" d="M2.5 17.5h55A2.5 2.5 0 0 1 60 20v32.5a2.5 2.5 0 0 1-2.5 2.5h-55A2.5 2.5 0 0 1 0 52.5V20a2.5 2.5 0 0 1 2.5-2.5z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path fill="url(#a)" d="M0 42.5v-35A2.5 2.5 0 0 1 2.5 5h20A2.5 2.5 0 0 1 25 7.5V10h32.5a2.5 2.5 0 0 1 2.5 2.5v30a2.5 2.5 0 0 1-2.5 2.5h-55A2.5 2.5 0 0 1 0 42.5z"/>
+        <path fill="#F7F7F7" d="M2.5 15h55a2.5 2.5 0 0 1 2.5 2.5v30a2.5 2.5 0 0 1-2.5 2.5h-55A2.5 2.5 0 0 1 0 47.5v-30A2.5 2.5 0 0 1 2.5 15z"/>
+        <use fill="url(#b)" xlink:href="#c"/>
+        <use fill="url(#d)" fill-opacity=".2" xlink:href="#c"/>
+        <path fill="#32658F" fill-rule="nonzero" d="M20.633 27.429c-.106 0-.204.1-.204.238v16.666c0 .138.098.238.204.238h19.591c.107 0 .205-.1.205-.238V27.667c0-.138-.098-.238-.205-.238H20.633zm0-1.429h19.591c.902 0 1.633.746 1.633 1.667v16.666c0 .92-.73 1.667-1.633 1.667H20.633C19.73 46 19 45.254 19 44.333V27.667c0-.92.731-1.667 1.633-1.667zm5.143 17.143h-4.633l6.255-8.572 2.316 3.175-3.938 5.397zm-1.062 1.071h-3.571 3.571zM39 35.817v7.326H27.393l8.541-11.429L39 35.817z"/>
+    </g>
+</svg>
