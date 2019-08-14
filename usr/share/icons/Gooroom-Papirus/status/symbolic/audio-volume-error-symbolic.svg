@@ -12,7 +12,7 @@
    viewBox="0 0 24 24"
    version="1.1"
    id="svg14"
-   sodipodi:docname="mute-02.svg"
+   sodipodi:docname="error.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata20">
@@ -42,7 +42,7 @@
      showgrid="false"
      inkscape:zoom="9.8333333"
      inkscape:cx="12"
-     inkscape:cy="5.3041364"
+     inkscape:cy="12"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -71,5 +71,5 @@
      style="fill:#ffffff;fill-rule:evenodd"
      inkscape:connector-curvature="0"
      id="path10"
-     d="m 16.243,10.828 2.121,-2.12 a 1,1 0 0 1 1.414,1.413 l -2.121,2.122 2.121,2.121 a 1,1 0 0 1 -1.414,1.414 l -2.121,-2.121 -2.122,2.121 a 1,1 0 1 1 -1.414,-1.414 l 2.121,-2.121 -2.12,-2.122 a 1,1 0 0 1 1.413,-1.414 z" />
+     d="m 15,7 a 1,1 0 0 1 1,1 v 5 a 1,1 0 0 1 -2,0 V 8 a 1,1 0 0 1 1,-1 z m 0,8 a 1,1 0 1 1 0,2 1,1 0 0 1 0,-2 z" />
 </svg>
