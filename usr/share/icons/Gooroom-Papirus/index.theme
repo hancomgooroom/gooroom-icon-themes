@@ -4,7 +4,7 @@ Comment=Gooroom icon theme based on Papirus
 Inherits=Papirus
 
 # Directory list
-Directories=actions/symbolic,apps/96x96,apps/scalable,categories/96x96,categories/scalable,categories/symbolic,devices/scalable,places/scalable,places/symbolic,status/scalable,status/symbolic
+Directories=actions/symbolic,apps/96x96,apps/scalable,categories/96x96,categories/scalable,categories/symbolic,devices/scalable,mimetypes/scalable,places/scalable,places/symbolic,status/scalable,status/symbolic
 
 [actions/symbolic]
 Context=Actions
@@ -47,6 +47,13 @@ Type=Scalable
 [devices/scalable]
 Context=Devices
 Size=48
+MinSize=16
+MaxSize=512
+Type=Scalable
+
+[mimetypes/scalable]
+Context=MimeTypes
+Size=16
 MinSize=16
 MaxSize=512
 Type=Scalable

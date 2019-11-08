@@ -4,7 +4,7 @@ Comment=Gooroom icon theme based on Faenza
 Inherits=Faenza
 
 # Directory list
-Directories=actions/symbolic,apps/96x96,apps/scalable,categories/96x96,categories/scalable,categories/symbolic,places/symbolic,status/scalable,status/symbolic
+Directories=actions/symbolic,apps/96x96,apps/scalable,categories/96x96,categories/scalable,categories/symbolic,mimetypes/scalable,places/symbolic,status/scalable,status/symbolic
 
 [actions/symbolic]
 Context=Actions
@@ -39,6 +39,13 @@ Type=Scalable
 
 [categories/symbolic]
 Context=Categories
+Size=16
+MinSize=16
+MaxSize=512
+Type=Scalable
+
+[mimetypes/scalable]
+Context=MimeTypes
 Size=16
 MinSize=16
 MaxSize=512
