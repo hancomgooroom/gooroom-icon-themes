@@ -17,8 +17,10 @@
     <g fill="none" fill-rule="evenodd">
         <path fill="url(#a)" d="M0 42.5v-35A2.5 2.5 0 0 1 2.5 5h20A2.5 2.5 0 0 1 25 7.5V10h32.5a2.5 2.5 0 0 1 2.5 2.5v30a2.5 2.5 0 0 1-2.5 2.5h-55A2.5 2.5 0 0 1 0 42.5z"/>
         <path fill="#F7F7F7" d="M2.5 15h55a2.5 2.5 0 0 1 2.5 2.5v30a2.5 2.5 0 0 1-2.5 2.5h-55A2.5 2.5 0 0 1 0 47.5v-30A2.5 2.5 0 0 1 2.5 15z"/>
-        <use fill="url(#b)" xlink:href="#c"/>
-        <use fill="url(#d)" fill-opacity=".2" xlink:href="#c"/>
+        <g>
+            <use fill="url(#b)" xlink:href="#c"/>
+            <use fill="url(#d)" fill-opacity=".2" xlink:href="#c"/>
+        </g>
         <path fill="#32658F" d="M31.197 40.23l5.203-5.202 1.6 1.6-8 8-8-8 1.6-1.6 4.97 4.97V26h2.627z"/>
     </g>
 </svg>
