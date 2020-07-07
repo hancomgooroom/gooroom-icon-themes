@@ -1,3 +1,12 @@
+gooroom-icon-themes (1.3.4+grm2u1) unstable; urgency=medium
+
+  [ HaeRyong Jeong ]
+  * [6bb4aedf] Removed hwp icons
+
+  [ Gooroom Autobuilder ]
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Tue, 07 Jul 2020 13:04:34 +0900
+
 gooroom-icon-themes (1.3.3+grm2u1) unstable; urgency=medium
 
   [ cjheo ]
