@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>890BC416-24EB-4136-828F-83348ED8E2CF</title>
+    <defs>
+        <linearGradient x1="27.7434068%" y1="27.7434068%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#18B094" offset="0%"></stop>
+            <stop stop-color="#007EFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M20,0 L28,0 C39.045695,0 48,8.954305 48,20 L48,28 C48,39.045695 39.045695,48 28,48 L20,48 C8.954305,48 0,39.045695 0,28 L0,20 C0,8.954305 8.954305,0 20,0 Z" id="path-2"></path>
+        <filter x="-4.2%" y="-4.2%" width="108.3%" height="108.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="2" operator="erode" in="SourceAlpha" result="shadowSpreadInner1"></feMorphology>
+            <feGaussianBlur stdDeviation="1" in="shadowSpreadInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.3 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M14,12 L16,12 C17.1045695,12 18,12.8954305 18,14 L18,16 C18,17.1045695 17.1045695,18 16,18 L14,18 C12.8954305,18 12,17.1045695 12,16 L12,14 C12,12.8954305 12.8954305,12 14,12 Z M14,30 L16,30 C17.1045695,30 18,30.8954305 18,32 L18,34 C18,35.1045695 17.1045695,36 16,36 L14,36 C12.8954305,36 12,35.1045695 12,34 L12,32 C12,30.8954305 12.8954305,30 14,30 Z M14,21 L16,21 C17.1045695,21 18,21.8954305 18,23 L18,25 C18,26.1045695 17.1045695,27 16,27 L14,27 C12.8954305,27 12,26.1045695 12,25 L12,23 C12,21.8954305 12.8954305,21 14,21 Z M23,12 L25,12 C26.1045695,12 27,12.8954305 27,14 L27,16 C27,17.1045695 26.1045695,18 25,18 L23,18 C21.8954305,18 21,17.1045695 21,16 L21,14 C21,12.8954305 21.8954305,12 23,12 Z M23,30 L25,30 C26.1045695,30 27,30.8954305 27,32 L27,34 C27,35.1045695 26.1045695,36 25,36 L23,36 C21.8954305,36 21,35.1045695 21,34 L21,32 C21,30.8954305 21.8954305,30 23,30 Z M23,21 L25,21 C26.1045695,21 27,21.8954305 27,23 L27,25 C27,26.1045695 26.1045695,27 25,27 L23,27 C21.8954305,27 21,26.1045695 21,25 L21,23 C21,21.8954305 21.8954305,21 23,21 Z M32,12 L34,12 C35.1045695,12 36,12.8954305 36,14 L36,16 C36,17.1045695 35.1045695,18 34,18 L32,18 C30.8954305,18 30,17.1045695 30,16 L30,14 C30,12.8954305 30.8954305,12 32,12 Z M32,30 L34,30 C35.1045695,30 36,30.8954305 36,32 L36,34 C36,35.1045695 35.1045695,36 34,36 L32,36 C30.8954305,36 30,35.1045695 30,34 L30,32 C30,30.8954305 30.8954305,30 32,30 Z M32,21 L34,21 C35.1045695,21 36,21.8954305 36,23 L36,25 C36,26.1045695 35.1045695,27 34,27 L32,27 C30.8954305,27 30,26.1045695 30,25 L30,23 C30,21.8954305 30.8954305,21 32,21 Z" id="path-4"></path>
+        <filter x="-8.3%" y="-4.2%" width="116.7%" height="116.7%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-1106.000000, -210.000000)">
+            <g id="launcher_ic/gooroom/tools" transform="translate(1106.000000, 210.000000)">
+                <g id="Rectangle">
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                </g>
+                <g id="Shape">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

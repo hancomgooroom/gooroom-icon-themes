@@ -5,3 +5,4 @@ set -e
 gtk-update-icon-cache -f /usr/share/icons/Gooroom-Arc
 gtk-update-icon-cache -f /usr/share/icons/Gooroom-Faenza
 gtk-update-icon-cache -f /usr/share/icons/Gooroom-Papirus
+gtk-update-icon-cache -f /usr/share/icons/Gooroom-Numix-Circle

@@ -11,8 +11,9 @@ Depends: ${misc:Depends},
          arc-icon-theme,
          faenza-icon-theme,
          papirus-icon-theme,
+         numix-icon-theme-circle,
          libgtk-3-bin,
          librsvg2-common
 Architecture: all
-Description: Default Icon Theme of Gooroom 
+Description: Default Icon Theme of Gooroom
  This package contains the default icon theme used by the Gooroom.

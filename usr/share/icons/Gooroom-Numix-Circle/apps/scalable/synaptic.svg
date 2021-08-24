@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>8780F134-CBB7-406F-822C-49EBAAE159FB</title>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="101.766435%" y2="100.768726%" id="linearGradient-1">
+            <stop stop-color="#107507" offset="0%"></stop>
+            <stop stop-color="#47C292" offset="99.9541614%"></stop>
+        </linearGradient>
+        <path d="M20,0 L28,0 C39.045695,0 48,8.954305 48,20 L48,28 C48,39.045695 39.045695,48 28,48 L20,48 C8.954305,48 0,39.045695 0,28 L0,20 C0,8.954305 8.954305,0 20,0 Z" id="path-2"></path>
+        <filter x="-4.2%" y="-4.2%" width="108.3%" height="108.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="2" operator="erode" in="SourceAlpha" result="shadowSpreadInner1"></feMorphology>
+            <feGaussianBlur stdDeviation="1" in="shadowSpreadInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.2 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M23,9 L23,11 L17,11 C13.2145483,11 10.1309013,14.0047834 10.004059,17.7593502 L10,18 L10,30 C10,33.7854517 13.0047834,36.8690987 16.7593502,36.995941 L17,37 L31,37 C34.7854517,37 37.8690987,33.9952166 37.995941,30.2406498 L38,30 L38,18 C38,14.2145483 34.9952166,11.1309013 31.2406498,11.004059 L31,11 L25,11 L25,9 L31,9 C35.8818027,9 39.8557914,12.8868137 39.9961629,17.7346377 L40,18 L40,30 C40,34.8818027 36.1131863,38.8557914 31.2653623,38.9961629 L31,39 L17,39 C12.1181973,39 8.14420858,35.1131863 8.00383711,30.2653623 L8,30 L8,18 C8,13.1181973 11.8868137,9.14420858 16.7346377,9.00383711 L17,9 L23,9 Z M32.0710678,25 C32.6233526,25 33.0710678,25.4477153 33.0710678,26 L33.0710678,31.6568542 L34.3314755,30.3964466 C34.6648088,30.0631133 35.2052489,30.0631133 35.5385822,30.3964466 C35.8719156,30.7297799 35.8719156,31.2702201 35.5385822,31.6035534 L32.7781746,34.363961 C32.3876503,34.7544853 31.7544853,34.7544853 31.363961,34.363961 L28.6035534,31.6035534 C28.2702201,31.2702201 28.2702201,30.7297799 28.6035534,30.3964466 C28.9368867,30.0631133 29.4773268,30.0631133 29.8106602,30.3964466 L31.0710678,31.6568542 L31.0710678,26 C31.0710678,25.4477153 31.5187831,25 32.0710678,25 Z M19,30 C20.1045695,30 21,30.8954305 21,32 C21,33.1045695 20.1045695,34 19,34 L15,34 C13.8954305,34 13,33.1045695 13,32 C13,30.8954305 13.8954305,30 15,30 L19,30 Z" id="path-4"></path>
+        <filter x="-6.2%" y="-3.3%" width="112.5%" height="113.3%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-1224.000000, -762.000000)">
+            <g id="launcher_ic/synaptic" transform="translate(1224.000000, 762.000000)">
+                <g id="Rectangle">
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                </g>
+                <g id="Shape">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                </g>
+                <path d="M20,9 L28,9 L28,17 C28,18.1045695 27.1045695,19 26,19 L22,19 C20.8954305,19 20,18.1045695 20,17 L20,9 L20,9 Z" id="Rectangle" fill-opacity="0.5" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

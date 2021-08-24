@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>11E9834E-D73D-4ACE-AD5D-71C78B576F8B</title>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="101.440345%" y2="100.445833%" id="linearGradient-1">
+            <stop stop-color="#CA0000" offset="0%"></stop>
+            <stop stop-color="#7A47C2" offset="99.9541614%"></stop>
+        </linearGradient>
+        <path d="M20,0 L28,0 C39.045695,0 48,8.954305 48,20 L48,28 C48,39.045695 39.045695,48 28,48 L20,48 C8.954305,48 0,39.045695 0,28 L0,20 C0,8.954305 8.954305,0 20,0 Z" id="path-2"></path>
+        <filter x="-4.2%" y="-4.2%" width="108.3%" height="108.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="2" operator="erode" in="SourceAlpha" result="shadowSpreadInner1"></feMorphology>
+            <feGaussianBlur stdDeviation="1" in="shadowSpreadInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.2 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M26,0 C29.3137085,0 32,2.6862915 32,6 L32,6 L32,22 C32,25.3137085 29.3137085,28 26,28 L26,28 L6,28 C2.6862915,28 0,25.3137085 0,22 L0,22 L0,6 C0,2.6862915 2.6862915,0 6,0 L6,0 Z M26,2 L6,2 C3.790861,2 2,3.790861 2,6 L2,6 L2,22 C2,24.209139 3.790861,26 6,26 L6,26 L26,26 C28.209139,26 30,24.209139 30,22 L30,22 L30,6 C30,3.790861 28.209139,2 26,2 L26,2 Z M11.7567568,12 L15,16.4444444 L9.48648649,24 L4.96767378,24 C4.41538903,24 3.96767378,23.5522847 3.96767378,23 C3.96767378,22.788109 4.03497963,22.5816946 4.15988283,22.4105309 L11.7567568,12 Z M23.7075472,8 L28,13.7435897 L28,22 C28,23.1045695 27.1045695,24 26,24 L11.75,24 L23.7075472,8 Z" id="path-4"></path>
+        <filter x="-6.2%" y="-3.6%" width="112.5%" height="114.3%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-752.000000, -486.000000)">
+            <g id="Group-6-Copy-6" transform="translate(752.000000, 486.000000)">
+                <g id="Rectangle">
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                </g>
+                <g id="Group-3" transform="translate(8.000000, 10.000000)" fill-rule="nonzero">
+                    <g id="Combined-Shape">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                        <use fill="#FFFFFF" xlink:href="#path-4"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

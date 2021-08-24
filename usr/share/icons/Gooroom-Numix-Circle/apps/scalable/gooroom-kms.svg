@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>63BDAD83-127B-4ADA-8FA0-2ADAA3A5F138</title>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="101.57997%" y2="100.584089%" id="linearGradient-1">
+            <stop stop-color="#58009D" offset="0%"></stop>
+            <stop stop-color="#C24747" offset="99.9541614%"></stop>
+        </linearGradient>
+        <path d="M20,0 L28,0 C39.045695,0 48,8.954305 48,20 L48,28 C48,39.045695 39.045695,48 28,48 L20,48 C8.954305,48 0,39.045695 0,28 L0,20 C0,8.954305 8.954305,0 20,0 Z" id="path-2"></path>
+        <filter x="-4.2%" y="-4.2%" width="108.3%" height="108.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="2" operator="erode" in="SourceAlpha" result="shadowSpreadInner1"></feMorphology>
+            <feGaussianBlur stdDeviation="1" in="shadowSpreadInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.2 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M28.0964998,27.8188539 C31.937268,26.2145923 34.6363636,22.4224999 34.6363636,18 C34.6363636,12.1256986 29.8743014,7.36363636 24,7.36363636 C18.1256986,7.36363636 13.3636364,12.1256986 13.3636364,18 C13.3636364,22.4369108 16.0803508,26.2392988 19.9410823,27.8344668 C19.9623109,27.8522086 22.8099796,29.4982954 28.4840884,32.7727273 C29.0493433,33.0990774 29.2430139,33.821866 28.9166639,34.3871209 C28.5903138,34.9523759 27.8675251,35.1460465 27.3022702,34.8196964 C21.7733606,31.6237967 18.9930939,30.0130754 18.9614702,29.9875324 C14.2840516,28.019176 11,23.3931037 11,18 C11,10.8202983 16.8202983,5 24,5 C31.1797017,5 37,10.8202983 37,18 C37,22.7924584 34.4067216,26.9792242 30.5468804,29.2335818 L28.0964998,27.8188539 Z M20.2962118,32.7727273 L28.4840884,37.5 C29.0493433,37.8263501 29.2430139,38.5491387 28.9166639,39.1143937 C28.5903138,39.6796486 27.8675251,39.8733192 27.3022702,39.5469691 L19.1143937,34.8196964 C18.5491387,34.4933463 18.3554681,33.7705577 18.6818182,33.2053027 C19.0081683,32.6400478 19.7309569,32.4463772 20.2962118,32.7727273 Z M26.704465,41.5654625 C26.0541233,42.3318319 25.0838582,42.8181818 24,42.8181818 C22.0418995,42.8181818 20.4545455,41.2308277 20.4545455,39.2727273 C20.4545455,38.8529524 20.5274974,38.4502164 20.6614146,38.0765058 L26.704465,41.5654625 Z" id="path-4"></path>
+        <filter x="-7.7%" y="-2.6%" width="115.4%" height="110.6%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-752.000000, -900.000000)">
+            <g id="launcher_ic/knowledge-share" transform="translate(752.000000, 900.000000)">
+                <g id="Rectangle">
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                </g>
+                <g id="Shape" fill-rule="nonzero">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                    <use fill="#FFFFFF" xlink:href="#path-4"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

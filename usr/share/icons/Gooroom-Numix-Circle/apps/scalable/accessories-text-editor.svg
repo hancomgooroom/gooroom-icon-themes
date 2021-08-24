@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>B1229DC5-56B3-41E4-9285-7FE459DE4A0E</title>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="101.766435%" y2="100.768726%" id="linearGradient-1">
+            <stop stop-color="#09BAB8" offset="0%"></stop>
+            <stop stop-color="#7A47C2" offset="99.9541614%"></stop>
+        </linearGradient>
+        <path d="M20,0 L28,0 C39.045695,0 48,8.954305 48,20 L48,28 C48,39.045695 39.045695,48 28,48 L20,48 C8.954305,48 0,39.045695 0,28 L0,20 C0,8.954305 8.954305,0 20,0 Z" id="path-2"></path>
+        <filter x="-4.2%" y="-4.2%" width="108.3%" height="108.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="2" operator="erode" in="SourceAlpha" result="shadowSpreadInner1"></feMorphology>
+            <feGaussianBlur stdDeviation="1" in="shadowSpreadInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.2 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <filter x="-16.7%" y="-11.1%" width="133.3%" height="122.2%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-1106.000000, -348.000000)">
+            <g id="launcher_ic/memo" transform="translate(1106.000000, 348.000000)">
+                <g id="Rectangle">
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                </g>
+                <g id="Group-2" filter="url(#filter-4)" transform="translate(24.000000, 25.000000) rotate(180.000000) translate(-24.000000, -25.000000) translate(12.000000, 7.000000)" fill="#FFFFFF">
+                    <path d="M24,35 C24,35.5522847 23.5522847,36 23,36 L1,36 C0.44771525,36 6.76353751e-17,35.5522847 0,35 C-6.76353751e-17,34.4477153 0.44771525,34 1,34 L23,34 C23.5522847,34 24,34.4477153 24,35 Z M24,31 C24,31.5522847 23.5522847,32 23,32 L1,32 C0.44771525,32 6.76353751e-17,31.5522847 0,31 C-6.76353751e-17,30.4477153 0.44771525,30 1,30 L23,30 C23.5522847,30 24,30.4477153 24,31 Z M24,27 C24,27.5522847 23.5522847,28 23,28 L1,28 C0.44771525,28 6.76353751e-17,27.5522847 0,27 C-6.76353751e-17,26.4477153 0.44771525,26 1,26 L23,26 C23.5522847,26 24,26.4477153 24,27 Z M7,21 L7,24 L6,24 L6,21 L7,21 Z M24,23 C24,23.5522847 23.5522847,24 23,24 L9,24 L9,24 L9,22 L23,22 C23.5522847,22 24,22.4477153 24,23 Z M8,17 L8,20 L5,20 L5,17 L8,17 Z M11,2 L11,10 L11,10 L9,16 L4,16 L2,10 L2,2 C2,0.8954305 2.8954305,1.13889744e-13 4,1.13686838e-13 L9,1.13686838e-13 C10.1045695,1.13483932e-13 11,0.8954305 11,2 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
