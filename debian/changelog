@@ -1,3 +1,10 @@
+gooroom-icon-themes (1.3.6+grm3u1) unstable; urgency=medium
+
+  [ cjheo ]
+  * [ab120228] Added Gooroom-Numix-Circle icon theme for Gooroom-3.0
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Sat, 04 Dec 2021 15:35:43 +0900
+
 gooroom-icon-themes (1.3.4+grm2u1) unstable; urgency=medium
 
   [ HaeRyong Jeong ]
