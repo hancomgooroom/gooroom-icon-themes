@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+    <defs>
+        <filter id="l9a90o59ma" width="150%" height="150%" x="-25%" y="-25%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0"/>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+        <filter id="2891u5dc9c" width="108.3%" height="108.3%" x="-4.2%" y="-4.2%" filterUnits="objectBoundingBox">
+            <feMorphology in="SourceAlpha" radius="2" result="shadowSpreadInner1"/>
+            <feGaussianBlur in="shadowSpreadInner1" result="shadowBlurInner1" stdDeviation="1"/>
+            <feOffset in="shadowBlurInner1" result="shadowOffsetInner1"/>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+            <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.1 0"/>
+        </filter>
+        <filter id="ouxs2h8ztd" width="114.3%" height="115.4%" x="-7.1%" y="-3.8%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.3 0"/>
+        </filter>
+        <path id="6syt0rurib" d="M20 0h8c11.046 0 20 8.954 20 20v8c0 11.046-8.954 20-20 20h-8C8.954 48 0 39.046 0 28v-8C0 8.954 8.954 0 20 0z"/>
+        <path id="redk42gfoe" d="M25 15h-2c0-1.105-.895-2-2-2h-7c-1.105 0-2 .895-2 2v18c0 1.105.895 2 2 2h20c1.105 0 2-.895 2-2V20c0-1.105-.895-2-2-2H15c-.552 0-1-.448-1-1s.448-1 1-1h19c2.21 0 4 1.79 4 4v13c0 2.21-1.79 4-4 4H14c-2.21 0-4-1.79-4-4V15c0-2.21 1.79-4 4-4h7c2.142 0 3.891 1.684 3.995 3.8L25 15z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g filter="url(#l9a90o59ma)" transform="translate(-336.000000, -307.000000) translate(270.000000, 119.000000) translate(40.000000, 50.000000) translate(26.000000, 138.000000)">
+                        <g>
+                            <use fill="#616161" xlink:href="#6syt0rurib"/>
+                            <use fill="#000" filter="url(#2891u5dc9c)" xlink:href="#6syt0rurib"/>
+                        </g>
+                        <g>
+                            <use fill="#000" filter="url(#ouxs2h8ztd)" xlink:href="#redk42gfoe"/>
+                            <use fill="#FFF" xlink:href="#redk42gfoe"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
