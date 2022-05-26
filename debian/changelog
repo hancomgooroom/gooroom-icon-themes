@@ -1,3 +1,10 @@
+gooroom-icon-themes (3.1.0+grm3u1) unstable; urgency=medium
+
+  [ subin.kim ]
+  * [705e4a29] [Bug:4604] Gooroom papirus Nautilus image added
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Thu, 26 May 2022 16:06:25 +0900
+
 gooroom-icon-themes (1.3.7+grm3u1) unstable; urgency=medium
 
   [ heejun.jang ]
