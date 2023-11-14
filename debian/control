@@ -1,19 +1,20 @@
 Source: gooroom-icon-themes
 Section: gnome
 Priority: optional
-Maintainer: gooroom <gooroom@gooroom.kr>
-Build-Depends: debhelper (>=9)
-Standards-version: 3.7.2
+Maintainer: Gooroom Maintainers <gooroom@gooroom.kr>
+Build-Depends: debhelper-compat (= 13),
+               gtk-update-icon-cache,
+Standards-version: 4.6.2
 
 Package: gooroom-icon-themes
+Architecture: all
 Depends: ${misc:Depends},
-         hicolor-icon-theme,
          arc-icon-theme,
+         hicolor-icon-theme,
          faenza-icon-theme,
          papirus-icon-theme,
          numix-icon-theme-circle,
          libgtk-3-bin,
          librsvg2-common
-Architecture: all
 Description: Default Icon Theme of Gooroom
  This package contains the default icon theme used by the Gooroom.
