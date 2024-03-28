@@ -1,0 +1,21 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Property 1=100">
+<mask id="mask0_459_10818" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="24" height="24">
+<rect id="Background" width="24" height="24" fill="white"/>
+</mask>
+<g mask="url(#mask0_459_10818)">
+<g id="ic/battery/middle">
+<g id="Group 10">
+<path id="Combined Shape" fill-rule="evenodd" clip-rule="evenodd" d="M9 23C7.89543 23 7 22.1046 7 21L7 5C7 3.89543 7.89543 3 9 3H15C16.1046 3 17 3.89543 17 5V21C17 22.1046 16.1046 23 15 23H9ZM9 22C8.44772 22 8 21.5523 8 21L8 5C8 4.44772 8.44772 4 9 4H15C15.5523 4 16 4.44772 16 5V21C16 21.5523 15.5523 22 15 22H9ZM11 1C10.4477 1 10 1.44772 10 2H14C14 1.44772 13.5523 1 13 1H11Z" fill="#575D6D" fill-opacity="1.0"/>
+<path id="Rectangle 18" d="M9 21V5H15V21H9Z" fill="url(#paint0_linear_459_10818)"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_459_10818" x1="1.40625" y1="-28.2308" x2="32.2892" y2="-18.8211" gradientUnits="userSpaceOnUse">
+<stop stop-color="#188392"/>
+<stop offset="1" stop-color="#ADFF87"/>
+</linearGradient>
+</defs>
+</svg>

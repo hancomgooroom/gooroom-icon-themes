@@ -1,0 +1,25 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M11 2C11 1.44772 11.4477 1 12 1H12.5C19.1274 1 24.5 6.37258 24.5 13C24.5 13.5523 24.0523 14 23.5 14C22.9477 14 22.5 13.5523 22.5 13C22.5 7.47715 18.0228 3 12.5 3H12C11.4477 3 11 2.55228 11 2Z" fill="url(#paint0_linear_532_4300)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 23.75C0 16.7084 5.70836 11 12.75 11H35.25C42.2916 11 48 16.7084 48 23.75V25V28V29C48 35.0751 43.0751 40 37 40C30.9249 40 26 35.0751 26 29V29C26 28.4477 25.5523 28 25 28H23C22.4477 28 22 28.4477 22 29V29C22 35.0751 17.0751 40 11 40C4.92487 40 0 35.0751 0 29V28V25V23.75Z" fill="url(#paint1_linear_532_4300)"/>
+<rect x="31" y="23" width="12" height="12" rx="6" fill="#F6F6F6"/>
+<rect x="30.5" y="22.5" width="13" height="13" rx="6.5" stroke="black" stroke-opacity="0.2"/>
+<rect x="16" y="14" width="4" height="4" rx="2" fill="#FF6767"/>
+<mask id="path-6-outside-1_532_4300" maskUnits="userSpaceOnUse" x="5" y="23" width="12" height="12" fill="black">
+<rect fill="white" x="5" y="23" width="12" height="12"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M11 24C10.4477 24 10 24.4477 10 25V28L7 28C6.44771 28 6 28.4477 6 29C6 29.5523 6.44772 30 7 30H10V33C10 33.5523 10.4477 34 11 34C11.5523 34 12 33.5523 12 33V30H15C15.5523 30 16 29.5523 16 29C16 28.4477 15.5523 28 15 28L12 28V25C12 24.4477 11.5523 24 11 24Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M11 24C10.4477 24 10 24.4477 10 25V28L7 28C6.44771 28 6 28.4477 6 29C6 29.5523 6.44772 30 7 30H10V33C10 33.5523 10.4477 34 11 34C11.5523 34 12 33.5523 12 33V30H15C15.5523 30 16 29.5523 16 29C16 28.4477 15.5523 28 15 28L12 28V25C12 24.4477 11.5523 24 11 24Z" fill="#F6F6F6"/>
+<path d="M10 28L10 29L11 29V28H10ZM7 28L7 27H7V28ZM10 30H11V29H10V30ZM12 30V29H11V30H12ZM15 28L15 29H15V28ZM12 28H11V29L12 29L12 28ZM11 25V25V23C9.89543 23 9 23.8954 9 25H11ZM11 28V25H9V28H11ZM7 29L10 29L10 27L7 27L7 29ZM7 29V27C5.89543 27 5 27.8954 5 29H7ZM7 29H7H5C5 30.1046 5.89543 31 7 31V29ZM10 29H7V31H10V29ZM11 33V30H9V33H11ZM11 33H9C9 34.1046 9.89543 35 11 35V33ZM11 33V35C12.1046 35 13 34.1046 13 33H11ZM11 30V33H13V30H11ZM15 29H12V31H15V29ZM15 29V31C16.1046 31 17 30.1046 17 29H15ZM15 29H17C17 27.8954 16.1046 27 15 27V29ZM12 29L15 29L15 27L12 27L12 29ZM11 25V28H13V25H11ZM11 25H13C13 23.8954 12.1046 23 11 23V25Z" fill="black" fill-opacity="0.2" mask="url(#path-6-outside-1_532_4300)"/>
+<rect x="22" y="14" width="4" height="4" rx="2" fill="#FFB800"/>
+<rect x="28" y="14" width="4" height="4" rx="2" fill="#22A777"/>
+<defs>
+<linearGradient id="paint0_linear_532_4300" x1="4" y1="2" x2="31.0936" y2="4.40387" gradientUnits="userSpaceOnUse">
+<stop stop-color="#AEAEAE"/>
+<stop offset="1" stop-color="#777777"/>
+</linearGradient>
+<linearGradient id="paint1_linear_532_4300" x1="70.9091" y1="13.6364" x2="45.4434" y2="62.4841" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F3F3F3"/>
+<stop offset="1" stop-color="#CFD3DF"/>
+</linearGradient>
+</defs>
+</svg>

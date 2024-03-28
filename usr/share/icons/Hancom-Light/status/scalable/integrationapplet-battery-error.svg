@@ -1,0 +1,11 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Property 1=error">
+<g id="ic/battery/middle">
+<g id="Group 10">
+<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M14 12H13L13 5C13 4.44772 12.5523 4 12 4H6C5.44772 4 5 4.44772 5 5L5 21C5 21.5523 5.44772 22 6 22H8V23H6C4.89543 23 4 22.1046 4 21L4 5C4 3.89543 4.89543 3 6 3H12C13.1046 3 14 3.89543 14 5L14 12ZM7 2C7 1.44772 7.44772 1 8 1H10C10.5523 1 11 1.44772 11 2H7Z" fill="#575D6D"/>
+</g>
+</g>
+<path id="Triangle" fill-rule="evenodd" clip-rule="evenodd" d="M15.3609 13.4568L20.1085 21.4911C20.3894 21.9666 20.2318 22.5798 19.7563 22.8607C19.6022 22.9518 19.4265 22.9998 19.2475 22.9998H9.75244C9.20016 22.9998 8.75244 22.5521 8.75244 21.9998C8.75244 21.8208 8.80047 21.6452 8.89151 21.4911L13.6391 13.4568C13.92 12.9813 14.5332 12.8236 15.0087 13.1046C15.1539 13.1904 15.2751 13.3115 15.3609 13.4568Z" fill="#F52C2C"/>
+<path id="Shape_2" fill-rule="evenodd" clip-rule="evenodd" d="M14 16H15V20H14V16ZM14 21H15V22H14V21Z" fill="white"/>
+</g>
+</svg>
