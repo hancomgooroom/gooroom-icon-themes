@@ -1,3 +1,13 @@
+gooroom-icon-themes (4.0.0+grm4u1+han4u1) unstable; urgency=medium
+
+  [ boyeon.choi ]
+  * [8fe827eb] removed debian/compat
+  * [5e2ad9f6] Init Hancom V4
+  * [72815a1d] [HGOOROOM-2151,2043]Fixed Hancom app icons
+  * [e6847a2f] Replace the user icon
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Thu, 29 Aug 2024 12:25:09 +0900
+
 gooroom-icon-themes (4.0.0+grm4u1) unstable; urgency=medium
 
   [ jongkyung.woo ]
